@@ -71,7 +71,6 @@ A short script that will download the whole CryptoPunks NFT collection to your p
 ![0682](https://user-images.githubusercontent.com/58900797/147238774-51330e8c-bff1-41ac-bc83-4624e128217d.png)
 ![0683](https://user-images.githubusercontent.com/58900797/147238775-2293a6af-93e1-4c62-9cf4-6fa6a1900c1b.png)
 ![0684](https://user-images.githubusercontent.com/58900797/147238777-b7952535-bd00-4ca5-a483-ec944cc21e2c.png)
-![0685](https://user-images.githubusercontent.com/58900797/147238778-0a6![0694](https://user-images.githubusercontent.com/58900797/147238789-fb0100b0-891c-4b03-a383-f675e7af8930.png)
 ![0695](https://user-images.githubusercontent.com/58900797/147238790-454d6833-0ea1-4c47-9287-7ef712ca0b25.png)
 ![0697](https://user-images.githubusercontent.com/58900797/147238791-f4ea00fe-a23d-42da-85c2-899b7a1bf7d7.png)
 ![0698](https://user-images.githubusercontent.com/58900797/147238792-fc854c2d-7a58-4d01-b0fd-09afa137671a.png)
